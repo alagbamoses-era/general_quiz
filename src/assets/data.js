@@ -14,7 +14,7 @@ option1: "Joseph married her",
 option2: "Joseph wanted to dissolve their relationship",
 option3: "Mary left Nazareth for a while", 
 option4: "an angel told them to go to Bethlehem",
-ans: [2, 3, 4],
+ans:  4,
 },
 {
 question: "Who directed Mary and Joseph to go to Bethlehem?",
